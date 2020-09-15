@@ -35,3 +35,4 @@ Support Server for the bot: https://discord.gg/y9pgpbt
 4.Open **voicecreate.py** in a text editor and replace **'Enter Discord Token here'** with your bots token
 
 5.Run the bot
+
